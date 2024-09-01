@@ -1,6 +1,6 @@
 # 👋 Hi there! 
 
-![Profile Banner](path/to/your/banner/image.png)
+![Profile Banner](./A_digital_illustration_depicting_a_futuristic_work.png)
 
 # 👋 Hi there! I'm Pravin Kumar Pattnaik
 
