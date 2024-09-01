@@ -10,7 +10,7 @@
 
 📧 [pravinpattnaik002@gmail.com](mailto:pravinpattnaik002@gmail.com)  
 🔗 [LinkedIn: pravinkumarpattnaik1279](https://www.linkedin.com/in/pravinkumarpattnaik1279/)  
-📞 +91 7894176599
+
 
 ---
 
