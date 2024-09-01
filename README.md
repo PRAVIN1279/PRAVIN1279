@@ -1,6 +1,7 @@
 # 👋 Hi there! 
 
-![Profile Banner](./A_digital_illustration_depicting_a_futuristic_work.png)
+![image](https://github.com/user-attachments/assets/31cb2257-6b15-4188-8031-a6ffc13a0347)
+
 
 # 👋 Hi there! I'm Pravin Kumar Pattnaik
 
