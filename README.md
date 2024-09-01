@@ -1,6 +1,6 @@
 # 👋 Hi there! 
 
-![Profile Banner](https://your-image-url-here) <!-- Replace with your actual image URL -->
+![Profile Banner](path/to/your/banner/image.png)
 
 # 👋 Hi there! I'm Pravin Kumar Pattnaik
 
@@ -10,7 +10,7 @@
 
 📧 [pravinpattnaik002@gmail.com](mailto:pravinpattnaik002@gmail.com)  
 🔗 [LinkedIn: pravinkumarpattnaik1279](https://www.linkedin.com/in/pravinkumarpattnaik1279/)  
-
+📞 +91 7894176599
 
 ---
 
